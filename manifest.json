@@ -1,7 +1,7 @@
 {
   "name": "Jd Mart",
   "short_name": "Jd Mart",
-  "description": "Best Online Grocery Store in Nipani.",
+  "description": "Best Online Grocery Store in Nipani and nearby area. Fresh items delivered to your doorstep.",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
@@ -9,19 +9,19 @@
   "orientation": "portrait",
   "icons": [
     {
-      "src": "icon192.png",
+      "src": "icon512.png?v=2",
       "type": "image/jpeg",
       "sizes": "192x192",
       "purpose": "any"
     },
     {
-      "src": "icon512.png",
+      "src": "icon512.png?v=2",
       "type": "image/jpeg",
       "sizes": "512x512",
       "purpose": "any"
     },
     {
-      "src": "icon512.png",
+      "src": "icon512.png?v=2",
       "type": "image/jpeg",
       "sizes": "512x512",
       "purpose": "maskable"
