@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "in.jdmart.App",
+      "sha256_cert_fingerprints":
+        ["27:15:05:43:DA:1A:39:FB:48:A3:4F:A4:40:D2:A6:E9:2C:BD:7A:85:86:5E:91:D5:D6:AB:38:0B:1B:1E:CD:F1"]
+    }
+  }
+]
